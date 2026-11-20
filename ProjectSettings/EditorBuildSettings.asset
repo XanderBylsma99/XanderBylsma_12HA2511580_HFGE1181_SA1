@@ -6,9 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/HFGE1181-Casual-Top-Down-Assets-SA1-main/Scenes/MainMenu.unity
+    guid: 4a9af6b384298ee49811d2a60f700d39
+  - enabled: 1
     path: Assets/HFGE1181-Casual-Top-Down-Assets-SA1-main/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: a2cac79c7c605c64ab358df633131f13, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 96ff4de96963ebc4bb245637248935bd, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: fd83ef3b828a9af4982a905b22c11eef, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
