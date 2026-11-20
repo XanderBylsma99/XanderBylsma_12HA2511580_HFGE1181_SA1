@@ -126,10 +126,10 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 8759378133710103378}
-    m_Position: {x: 560, y: 120, z: 0}
+    m_Position: {x: 550, y: 90, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8077429797983514596}
-    m_Position: {x: 570, y: 230, z: 0}
+    m_Position: {x: 550, y: 240, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -153,8 +153,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   duration: 1
-  particlePrefab: {fileID: 3703760280491865341, guid: 2feafa8751f773e4d813c51b650ed2d8, type: 3}
-  spawnPoint: {fileID: 425130001152078733, guid: 5eab24dbd4ab86742974911a24929a35, type: 3}
+  particlePrefab: {fileID: 5023997149472381507, guid: 12166879b1c457944a82e90cc0178d76, type: 3}
+  spawnPoint: {fileID: 1723630590888511480, guid: 2ad0b1d76e93f7c42b622a276c238699, type: 3}
 --- !u!1102 &8759378133710103378
 AnimatorState:
   serializedVersion: 6
